@@ -1,0 +1,7 @@
+﻿  RSA.cpp
+c:\users\bigle\source\repos\rsa\rsa\rsa.cpp(52): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\bigle\source\repos\rsa\rsa\rsa.cpp(77): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\bigle\source\repos\rsa\rsa\rsa.cpp(77): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 3개가 제공되었습니다.
+  c:\users\bigle\source\repos\rsa\rsa\rsa.cpp(77): note: 누락된 variadic 인수 4이(가) 서식 문자열 '%d'에 필요합니다.
+  RSA.vcxproj -> C:\Users\bigle\source\repos\RSA\Debug\RSA.exe
+  RSA.vcxproj -> C:\Users\bigle\source\repos\RSA\Debug\RSA.pdb (Partial PDB)
